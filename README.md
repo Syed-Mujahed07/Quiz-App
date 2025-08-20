@@ -1,5 +1,6 @@
 # Quiz App
 
+
 This is a simple and interactive quiz application built with React. It allows users to answer a series of questions and get their final score at the end.
 
 ## Features
