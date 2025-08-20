@@ -3,6 +3,11 @@
 
 This is a simple and interactive quiz application built with React. It allows users to answer a series of questions and get their final score at the end.
 
+## Live Demo
+
+Check out the live version of the Quiz App here:  
+[Quiz App Live Demo](https://quiz-app-mujahed.netlify.app/)
+
 ## Features
 
 - Presents one question at a time with multiple-choice answers.
@@ -30,4 +35,4 @@ This is a simple and interactive quiz application built with React. It allows us
 
 Made with ❤️ by @Syed Muajhed
 
-Feel free to reach out for any feedback or suggestions!
+
