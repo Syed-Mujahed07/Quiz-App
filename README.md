@@ -29,4 +29,4 @@ This is a simple and interactive quiz application built with React. It allows us
 
 Made with ❤️ by @Syed Muajhed
 
-Feel free to reach out for any feedback or suggestions!
+
